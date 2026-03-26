@@ -1,0 +1,3 @@
+Nigdy więcej ręcznego aktualizowania modów po każdym patchu! Teraz wystarczą 2 kliknięcia, aby zainstalować najnowsze wersje modów multiego do naszej ulubionej gry o czołgach.
+
+Wystarczy, że pobierzesz i uruchomisz [ten plik](https://github.com/kioskware/AutomatyczneModyMultiego/blob/main/dist/WoT_Mod_Installer.exe).
